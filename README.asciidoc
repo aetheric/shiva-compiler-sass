@@ -1,0 +1,4 @@
+Aetheric Shiva: SASS Compiler
+=============================
+
+This utility provides a simple API for compiling SASS (SCSS) files into css.
